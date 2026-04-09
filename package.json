@@ -1,6 +1,6 @@
 {
   "name": "@shiinasaku/kaito",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "High-performance, runtime-agnostic GitHub GraphQL fetcher with SWR caching.",
   "keywords": [
     "bun",
